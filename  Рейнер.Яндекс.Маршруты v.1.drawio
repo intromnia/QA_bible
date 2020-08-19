@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-19T16:03:48.207Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="9TXEVDKQvnWT1GnkEYNV" version="13.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-19T18:42:03.977Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="gSGVRWjs5o7aQMK1bw5b" version="13.6.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Flowchart">
     <mxGraphModel dx="658" dy="1607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
         <mxCell id="b8sEk_Su9cXO1HsG_HJd-13" value="Время суток&lt;br&gt;00:01—08:00?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#cce5ff;shadow=0;sketch=0;fontStyle=1;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#7EA6E0;fontColor=#4D4D4D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="352.5" y="160" width="135" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="b8sEk_Su9cXO1HsG_HJd-15" value="Средняя скорость автомобиля&lt;br&gt;45 км/ч" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;shadow=0;sketch=0;fontStyle=1;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#82b366;fontColor=#4D4D4D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="b8sEk_Su9cXO1HsG_HJd-15" value="Средняя скорость такси&lt;br&gt;50 км/ч" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;shadow=0;sketch=0;fontStyle=1;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#82b366;fontColor=#4D4D4D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="550" y="195" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b8sEk_Su9cXO1HsG_HJd-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#cce5ff;shadow=0;sketch=0;fontStyle=1;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#7EA6E0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#4D4D4D;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b8sEk_Su9cXO1HsG_HJd-56" edge="1">
@@ -29,16 +29,16 @@
             <mxPoint x="420" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b8sEk_Su9cXO1HsG_HJd-29" value="Средняя скорость автомобиля&lt;br&gt;30 км/ч" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;shadow=0;sketch=0;fontStyle=1;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#82b366;fontColor=#4D4D4D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="b8sEk_Su9cXO1HsG_HJd-29" value="Средняя скорость такси&lt;br&gt;35 км/ч" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;shadow=0;sketch=0;fontStyle=1;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#82b366;fontColor=#4D4D4D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="550" y="385" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b8sEk_Su9cXO1HsG_HJd-31" value="Средняя скорость автомобиля&lt;br&gt;40 км/ч" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;shadow=0;sketch=0;fontStyle=1;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#82b366;fontColor=#4D4D4D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="b8sEk_Su9cXO1HsG_HJd-31" value="Средняя скорость такси&lt;br&gt;42 км/ч" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;shadow=0;sketch=0;fontStyle=1;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#82b366;fontColor=#4D4D4D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="550" y="575" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b8sEk_Su9cXO1HsG_HJd-33" value="Средняя скорость автомобиля&lt;br&gt;25 км/ч" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;shadow=0;sketch=0;fontStyle=1;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#82b366;fontColor=#4D4D4D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="b8sEk_Su9cXO1HsG_HJd-33" value="Средняя скорость такси&lt;br&gt;30 км/ч" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;shadow=0;sketch=0;fontStyle=1;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#82b366;fontColor=#4D4D4D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="550" y="765" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b8sEk_Su9cXO1HsG_HJd-35" value="Средняя скорость автомобиля&lt;br&gt;45 км/ч" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;shadow=0;sketch=0;fontStyle=1;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#82b366;fontColor=#4D4D4D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="b8sEk_Su9cXO1HsG_HJd-35" value="Средняя скорость такси&lt;br&gt;50 км/ч" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;shadow=0;sketch=0;fontStyle=1;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#82b366;fontColor=#4D4D4D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="550" y="955" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b8sEk_Su9cXO1HsG_HJd-37" value="Ввод&lt;br&gt;времени начала поездки" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#cce5ff;shadow=0;sketch=0;fontStyle=1;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#7EA6E0;fontColor=#4D4D4D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
